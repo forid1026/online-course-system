@@ -1,0 +1,38 @@
+.header img{
+    width: 80px;
+    
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    background-color: brown;
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    padding:  6px;
+
+}
+nav a:hover{
+    background-color: #023F83;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #ffffff;
+
+}
+
+.summary{
+    background-size: cover;
+    background-position:  top center;
+    background-repeat: no-repeat;
+    height: 400px;
+
+}
+.info{
+    width: 50%;
+    padding: 70px;
+}

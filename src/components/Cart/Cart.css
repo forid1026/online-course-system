@@ -1,0 +1,14 @@
+ .order{
+    padding: 20px;
+    background: #023F83;
+    margin-top:  100px; 
+    border-radius: 10px;
+    width: 400px;
+    margin-left: -20px;
+    text-align: center;
+    height: 200px;
+}
+img{
+    width: 300px;
+    height: 250px;
+}
